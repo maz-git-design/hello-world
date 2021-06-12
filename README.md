@@ -1,2 +1,2 @@
 # hello-world
-My first repository in Github
+I'm Lionnel. I'like more do news things
